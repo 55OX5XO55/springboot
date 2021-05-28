@@ -2,4 +2,8 @@ I love you!!!
 I love you!!!
 iss53
 继续iss53
+<<<<<<< HEAD
 在main分支中制造冲突
+=======
+在conflict分支中使其冲突
+>>>>>>> conflictBranch
