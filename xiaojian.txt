@@ -7,3 +7,4 @@ iss53
 =======
 在conflict分支中使其冲突
 >>>>>>> conflictBranch
+test git branch --merge
